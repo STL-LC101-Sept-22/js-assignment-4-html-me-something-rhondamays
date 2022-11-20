@@ -1,1 +1,40 @@
-/* Write your CSS here! */
+/* Write your CSS styles here */
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+header {
+    text-align: center;
+}
+
+#mainHeading {
+    color: red;
+    padding: 20px;
+}
+
+#educationTitle {
+    padding: 20px;
+}
+
+.jobTitleOne,
+.jobTitleTwo,
+.jobTitleThree,
+.educationOne,
+.educationTwo {
+    padding-left: 60px;
+    margin-bottom: 35px;
+}
+
+#testP.funParagraph {
+    color: green;
+}
+
+#testP.funParagraph,
+.skills,
+.frameworks {
+    margin-left: 25px;
+}
+
+
