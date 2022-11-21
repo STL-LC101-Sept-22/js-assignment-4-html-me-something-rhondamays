@@ -26,29 +26,26 @@ hr {
 
 #mainHeading {
     color: red;
+}
+
+#educationTitle,
+#workExperience {
     padding: 20px;
     border: 2px solid slategray;
 }
 
-#educationTitle {
-    padding: 20px;
-    border: 2px solid slategray;
-}
-
-.jobTitleOne,
-.jobTitleTwo,
-.jobTitleThree,
+.workExperience,
 .educationOne,
 .educationTwo {
     padding-left: 60px;
     margin-bottom: 35px;
 }
 
-#testP.funParagraph {
+.funParagraph {
     color: green;
 }
 
-#testP.funParagraph,
+.funParagraph,
 .skills,
 .frameworks {
     margin-left: 25px;
