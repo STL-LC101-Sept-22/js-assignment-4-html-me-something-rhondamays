@@ -9,13 +9,30 @@ header {
     text-align: center;
 }
 
+
+.name {
+    font-size: 35px;
+}
+
+img {
+    width: auto;
+    height: 50px;
+}
+
+hr {
+    width: 750px;
+    color: slategray;
+}
+
 #mainHeading {
     color: red;
     padding: 20px;
+    border: 2px solid slategray;
 }
 
 #educationTitle {
     padding: 20px;
+    border: 2px solid slategray;
 }
 
 .jobTitleOne,
@@ -37,4 +54,6 @@ header {
     margin-left: 25px;
 }
 
-
+footer {
+    text-align: center;
+}
